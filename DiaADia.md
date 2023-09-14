@@ -31,4 +31,4 @@
 # Noticia enfocada en el aspecto numero cuatro
 * Fuente : XATAKA
 * Tematica : Autocompletado
-Esta es mi [Noticia](https://www.xataka.com/aplicaciones/la-ia-de-google-autocompletara-mensajes-en-gmail-y-dara-color-a-las-fotos-de-nuestros-abuelos-en-photos)
+* Esta es mi [Noticia](https://www.xataka.com/aplicaciones/la-ia-de-google-autocompletara-mensajes-en-gmail-y-dara-color-a-las-fotos-de-nuestros-abuelos-en-photos)
