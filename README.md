@@ -1,2 +1,12 @@
-# Web
-Desarrollo de #Web enfocada a proyectos y aprendizaje digital 
+# Curso de Introduccion a Inteligencia Artificial ⚡️🧠
+* Platzi 💚
+* Profe: Carlos Alarcon
+* Fundamentos de Data e IA (Inteligencia Artificial)
+
+# Ruta de Aprendizaje
+* Introducción a Data Science e Inteligencia Artificial
+* Potencial de los datos 📊 y machine learning 🤖
+* Curso 1: Guia para Empezar una Carrera en Data Science e Inteligencia
+* Curso 2: Curso de Introduccion a Inteligencia Artificial 🧠
+* Curso 3: Curso de Etica 🔎 y Manejo de Datos para Data Science e Inteligencia Artificial 🤖
+
